@@ -24,11 +24,11 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		///
 		/// ↓更新処理ここから
 		///
-
+		
 		///
 		/// ↑更新処理ここまで
 		///
-
+		Novice::ScreenPrintf(0, 0, "aiueo");
 		///
 		/// ↓描画処理ここから
 		///
